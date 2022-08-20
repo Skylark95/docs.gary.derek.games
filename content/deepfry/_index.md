@@ -5,21 +5,10 @@ Title: Deepfry
 Deepfries memes.
 ​
 ## Commands
-- **[deepfry](#deepfry)** Deepfries images.
-- **[nuke](#nuke)** Demolishes images.
+- {{% commandref deepfry "Deepfries images." %}}
+- {{% commandref nuke "Demolishes images." %}}
 
-## deepfry
-```
-Syntax: gary deepfry [link]
-Alias: gary df
-```
-**Deepfries images.**
-
+{{% command deepfry "Deepfries images." "[link]" "df" %}}
 The optional parameter "link" can be either a member or a direct link to an image.
-## nuke
-```
-Syntax: gary nuke [link]
-```
-**Demolishes images.**
-
+{{% command nuke "Demolishes images." "[link]" %}}
 The optional parameter "link" can be either a member or a direct link to an image.

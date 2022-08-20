@@ -1,5 +1,5 @@
 baseURL = "https://docs.gary.derek.games"
-title = "Gary Docs"
+title = "Gary Command Reference"
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false

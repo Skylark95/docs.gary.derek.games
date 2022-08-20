@@ -5,9 +5,7 @@ Title: Compliment
 Compliment users because there's too many insults
 
 ## Commands
-- **[compliment](#compliment)** Compliment the user
+- {{% commandref compliment "Compliment the user" %}}
 
-## compliment
-**Compliment the user**
-
+{{% command compliment "Compliment the user" "[user]" %}}
 `user` the user you would like to compliment

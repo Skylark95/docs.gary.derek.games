@@ -5,14 +5,9 @@ Title: Dice
 Perform complex dice rolling.
 Cog Version: 2.0.0
 ## Commands
-- **[dice](#dice)** Perform die roll based on a dice formula.
+- {{% commandref dice "Perform die roll based on a dice formula." %}}
 
-## dice
-```
-Syntax: gary dice <roll>
-```
-**Perform die roll based on a dice formula.**
-
+{{% command dice "Perform die roll based on a dice formula." "<roll>" %}}
 The [PyHedrals](https://github.com/StarlitGhost/pyhedrals) library is used for dice formula parsing.
 
 Use the link above to learn the notation allowed. Below are a few examples:

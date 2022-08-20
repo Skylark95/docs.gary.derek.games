@@ -4,12 +4,7 @@ Title: DallE
 Dall-E mini image generation
 ​
 ## Commands
-- **[generate](#generate)** Generate images through Dall-E mini.
+- {{% commandref generate "Generate images through Dall-E mini." %}}
 
-## generate
-```
-Syntax: gary generate <prompt>
-```
-**Generate images through Dall-E mini.**
-
+{{% command generate "Generate images through Dall-E mini." "<prompt>" %}}
 https://huggingface.co/spaces/dalle-mini/dalle-mini
