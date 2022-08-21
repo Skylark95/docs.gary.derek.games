@@ -1,5 +1,5 @@
 ---
-Title: Hello, I am Gary.
+Title: Gary
 ---
 
 
