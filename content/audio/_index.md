@@ -10,19 +10,19 @@ Play audio through voice channels.
 - {{% commandref disconnect "Disconnect from the voice channel." %}}
 - {{% commandref now "Now playing." %}}
 - {{% commandref pause "Pause or resume a playing track." %}}
-- {{% commandref percent "Queue percentage." %}}}
-- {{% commandref play "Play the specified track or search for a close match." %}}}
-- {{% commandref prev "Skip to the start of the previously played track." %}}}
-- {{% commandref queue "List the songs in the queue." %}}}
-- {{% commandref remove "Remove a specific track number from the queue." %}}}
-- {{% commandref repeat "Toggle repeat." %}}}
-- {{% commandref search "Pick a track with a search." %}}}
-- {{% commandref seek "Seek ahead or behind on a track by seconds or to a specific time." %}}}
-- {{% commandref shuffle "Toggle shuffle." %}}}
-- {{% commandref skip "Skip to the next track, or to a given track number." %}}}
-- {{% commandref stop "Stop playback and clear the queue." %}}}
-- {{% commandref summon "Summon the bot to a voice channel." %}}}
-- {{% commandref volume "Set the volume, 1% - 150%." %}}}
+- {{% commandref percent "Queue percentage." %}}
+- {{% commandref play "Play the specified track or search for a close match." %}}
+- {{% commandref prev "Skip to the start of the previously played track." %}}
+- {{% commandref queue "List the songs in the queue." %}}
+- {{% commandref remove "Remove a specific track number from the queue." %}}
+- {{% commandref repeat "Toggle repeat." %}}
+- {{% commandref search "Pick a track with a search." %}}
+- {{% commandref seek "Seek ahead or behind on a track by seconds or to a specific time." %}}
+- {{% commandref shuffle "Toggle shuffle." %}}
+- {{% commandref skip "Skip to the next track, or to a given track number." %}}
+- {{% commandref stop "Stop playback and clear the queue." %}}
+- {{% commandref summon "Summon the bot to a voice channel." %}}
+- {{% commandref volume "Set the volume, 1% - 150%." %}}
 
 {{% command bump "Bump a track number to the top of the queue." "<index>" %}}
 {{% command bumpplay "Force play a URL or search for a track." "[play_now=False] <query>" %}}
