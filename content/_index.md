@@ -23,6 +23,7 @@ Title: Gary
 - {{% cc hashtags "#StoatOnABoat #BatNuts" %}}
 - {{%cc hey "and i say 'hey', what's goin' on?!?!?!" %}}
 - {{% alias joke dadjokes dadjoke %}}
+- {{%ccgif ka "https://tenor.com/view/want-you-to-do-it-gif-20550570" "Joker saying hit me" %}}
 - {{% aliasaudio keyboardcat audio play "https://www.youtube.com/watch?v=J---aiyznGQ%" "Keyboard Cat" %}}
 - {{%ccgif olinn "https://tenor.com/view/tight-tightpants-jimmyfallon-gif-4902754" "I got my tight pants on" %}}
 - {{% alias outpost audio play "https://www.youtube.com/watch?v=6X9tBHX_Fl4" %}}
