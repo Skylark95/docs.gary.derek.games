@@ -26,7 +26,7 @@ Title: Gary
 - {{%ccgif ka "https://tenor.com/view/want-you-to-do-it-gif-20550570" "Joker saying hit me" %}}
 - {{% aliasaudio keyboardcat audio play "https://www.youtube.com/watch?v=J---aiyznGQ%" "Keyboard Cat" %}}
 - {{%ccgif olinn "https://tenor.com/view/tight-tightpants-jimmyfallon-gif-4902754" "I got my tight pants on" %}}
-- {{% alias outpost audio play "https://www.youtube.com/watch?v=6X9tBHX_Fl4" %}}
+- {{% alias outpost audio play "https://www.youtube.com/watch?v=6X9tBHX_Fl4" "SKATT BROS - Life At The Outpost" %}}
 - {{%ccgif penis "https://tenor.com/view/charles-robinson-penis-thats-a-penis-himym-how-i-met-your-mother-gif-4703463" "that's a penis" %}}
 - {{% aliasaudio podcast audio play "https://www.youtube.com/watch?v=ZZ5LpwO-An4" "SKATT BROS - Life At The Outpost" %}}
 - {{% alias r dice dice %}}
